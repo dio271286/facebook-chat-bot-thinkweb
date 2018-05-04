@@ -1,2 +1,2 @@
-# facebook-chat-bot-thinkweb
-# facebook-chat-bot-thinkweb
+# facebook-echo-bot
+Sample echo Facebook bot using Messenger Platform API
